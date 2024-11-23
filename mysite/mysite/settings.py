@@ -78,10 +78,10 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'ToDoList',
-        'USER': 'bog',
-        'PASSWORD': 'qwerty',
-        'HOST': '127.0.0.1',
-        'PORT': '5432'
+        'USER': '',
+        'PASSWORD': '',
+        'HOST': '',
+        'PORT': ''
     }
 }
 
